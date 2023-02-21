@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": "^8.0",
+        "league/csv": "^9.8",
+        "larapack/dd": "^1.1",
+        "delight-im/random": "^1.0",
+        "nesbot/carbon": "^2.66"
+    },
+    "autoload": {
+        "psr-4": {
+            "ShortlinkGenerator\\": "ShortlinkGenerator/"
+        }
+    }
+}
